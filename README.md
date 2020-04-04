@@ -4,10 +4,16 @@ Project tree:
 
 .
 ├── Makefile
+
 ├── inc/
+
 ├── lib/
+
 ├── linker/
+
 ├── src/
+
 ├── startup/
+
 └ - build/
 
